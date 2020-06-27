@@ -11,7 +11,7 @@ export const HeroContainer = styled.section`
       rgba(var(--hero-gradient-color-1), 0.42),
       rgba(var(--hero-gradient-color-2), 1)
     ),
-    ${({ hero }) => (hero ? `url(${hero})` : 'red')};
+    ${({ hero }) => (hero ? `url(${hero})` : 'var(--primary-color-7)')};
   background-position: center;
   background-size: cover;
   display: flex;
