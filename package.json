@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "gp-pages -d build",
+    "predeploy": "gh-pages -d build",
     "deploy": "npm run build"
   },
   "eslintConfig": {
