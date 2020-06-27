@@ -5,7 +5,7 @@ import { Event } from '../pages/Event';
 import { Layout } from './Layout';
 
 export const App = () => (
-  <Router basename="/suma-fcc">
+  <Router basename="https://davidp46.github.io/suma-fcc/">
     <Layout>
       <Switch>
         <Route exact path="/">
