@@ -1,11 +1,11 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
 import { Home } from '../pages/Home';
 import { Event } from '../pages/Event';
 import { Layout } from './Layout';
 
 export const App = () => (
-  <Router>
+  <Router basename="/">
     <Layout>
       <Switch>
         <Route exact path="/">
