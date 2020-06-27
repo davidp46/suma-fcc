@@ -8,7 +8,7 @@ export const Hero = ({ title, hero } = {}) => {
     <HeroContainer hero={hero}>
       <HeroContent>
         <Breadcrumb>
-          <Link to="/SuMA">SuMA</Link>
+          <Link to="/suma-fcc/SuMA">SuMA</Link>
           <Bread src={breadIcon} />
           <p>Evento</p>
         </Breadcrumb>
