@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d3e5dfb051f721ac1ad176a15f3e15c",
+    "revision": "8e8d91642dc62053f7a9ef85fee9f4c0",
     "url": "/suma-fcc/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suma-fcc/static/js/2.53e596e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ca353db8fdc644b5555",
-    "url": "/suma-fcc/static/js/main.8222f81a.chunk.js"
+    "revision": "a78df5e0953d8cce6742",
+    "url": "/suma-fcc/static/js/main.8460bf5b.chunk.js"
   },
   {
     "revision": "e4ba5ed79de2fc79e580",
