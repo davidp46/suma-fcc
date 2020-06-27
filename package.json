@@ -1,6 +1,5 @@
 {
   "name": "sumafcc",
-  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,12 +14,10 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
-    "dev": "react-scripts start",
-    "start": "serve -s build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "heroku-postbuild": "npm run build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
