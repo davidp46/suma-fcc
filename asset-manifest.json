@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/suma-fcc/static/js/main.d70d25b3.chunk.js",
-    "main.js.map": "/suma-fcc/static/js/main.d70d25b3.chunk.js.map",
+    "main.js": "/suma-fcc/static/js/main.e4a5c41f.chunk.js",
+    "main.js.map": "/suma-fcc/static/js/main.e4a5c41f.chunk.js.map",
     "runtime-main.js": "/suma-fcc/static/js/runtime-main.4ed3ba54.js",
     "runtime-main.js.map": "/suma-fcc/static/js/runtime-main.4ed3ba54.js.map",
     "static/js/2.45672ae7.chunk.js": "/suma-fcc/static/js/2.45672ae7.chunk.js",
     "static/js/2.45672ae7.chunk.js.map": "/suma-fcc/static/js/2.45672ae7.chunk.js.map",
     "index.html": "/suma-fcc/index.html",
-    "precache-manifest.63d937e495c19b2929b38986537e42c3.js": "/suma-fcc/precache-manifest.63d937e495c19b2929b38986537e42c3.js",
+    "precache-manifest.974242b4cd2d19b4df5f98f245c22d85.js": "/suma-fcc/precache-manifest.974242b4cd2d19b4df5f98f245c22d85.js",
     "service-worker.js": "/suma-fcc/service-worker.js",
     "static/js/2.45672ae7.chunk.js.LICENSE.txt": "/suma-fcc/static/js/2.45672ae7.chunk.js.LICENSE.txt",
     "static/media/DMSans-Bold.ttf": "/suma-fcc/static/media/DMSans-Bold.07185303.ttf",
@@ -27,6 +27,6 @@
   "entrypoints": [
     "static/js/runtime-main.4ed3ba54.js",
     "static/js/2.45672ae7.chunk.js",
-    "static/js/main.d70d25b3.chunk.js"
+    "static/js/main.e4a5c41f.chunk.js"
   ]
 }
