@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashLink as Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { HeroContainer, HeroContent, Breadcrumb, Bread } from './styles';
 import breadIcon from '../../assets/images/icon-bread.svg';
 
