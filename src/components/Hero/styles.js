@@ -6,7 +6,7 @@ export const HeroContainer = styled.section`
   left: 0;
   width: 100%;
   height: var(--height-hero);
-  background: ${({ hero }) => (hero ? `url(${hero})` : 'red')};
+  background: ${({ hero }) => (hero ? `url(${hero})` : 'var(--primary-color-7)')};
   background: linear-gradient(
       rgba(var(--hero-gradient-color-1), 0.42),
       rgba(var(--hero-gradient-color-2), 1)
